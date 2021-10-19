@@ -292,6 +292,10 @@ Este tipo de cardinalidad es muy interesante por ello su clase aparte,se vera cu
 
 Cardinalidad: N a N
 
+Un alumno puede tener muchas clases y una clase puede tener muchos alumons.
+
+![src/Cardinalidad_N_a_N.png](src/Cardinalidad_N_a_n.png)
+
 ### Clase 8 Diagrama ER
 
 Un diagrama es como un mapa y nos ayuda a entender cuáles son las entidades con las que vamos a trabajar, cuáles son sus relaciones y qué papel van a jugar en las aplicaciones de la base de datos.
